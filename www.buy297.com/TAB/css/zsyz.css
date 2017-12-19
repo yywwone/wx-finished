@@ -1,0 +1,136 @@
+body{
+	background-color: #f5f5f5;
+}
+a{
+	display: inline-block;
+}
+.tab-header{
+	width: 100%;
+	height: auto;
+}
+.tab-header img{
+	width: 100%;
+	height: 2.4rem;
+}
+.tab-nav{
+	width: 100%;
+	height: 0.265rem;
+	margin-top: 0.055rem;
+	border-bottom: #233B83 solid 0.01rem;
+}
+.tab-nav-item{
+	width: 100%;
+	height: 100%;
+	display: table;
+}
+.tab-nav-item li{
+	display: table-cell;
+	height: 0.265rem;
+	font-size: 0.13rem;
+	text-align: center;
+}
+.tab-nav-item li span{
+	display: inline-block;
+	height: 0.265rem;
+	width: 0.85rem;
+	font-size: 0.13rem;
+	background-color: #233b83;
+	color: #FFFFFF;
+	line-height: 0.265rem;
+	border-top-left-radius: 0.05rem;
+	border-top-right-radius: 0.05rem;
+}
+.policy{
+	width:94.4%;
+	height:0.45rem;
+	background-color:#f5f5f5;
+	font-size: 0.12rem;
+	line-height: 0.45rem;
+	color: #666666;
+	padding-left:0.2rem;
+	margin-top: 0.1rem;
+	font-weight: 600;
+}
+.policy:nth-of-type(2){
+	margin-top: 0.03rem;
+}
+.policy:nth-of-type(3){
+	margin-top: 0.03rem;
+}
+.policy:nth-of-type(4){
+	margin-top: 0.03rem;
+}
+.policy-mian{
+	width: 82%;
+	margin: 0 auto;
+}
+.policy-mian li{
+	width: 100%;
+	height: 0.43rem;
+	border-bottom: solid 0.01rem #ebe9e9;
+	line-height: 0.43rem;
+}
+.policy-mian-a{
+	width: 82%;
+	margin: 0 auto;
+}
+.policy-mian-a li{
+	width: 100%;
+	height: 0.5rem;
+	border-bottom: solid 0.01rem #ebe9e9;
+	line-height: 0.25rem;
+	color: #666666;
+	margin-top: 0.05rem;
+}
+.policy-mian-a li:nth-of-type(4){
+	line-height: 0.5rem;
+}
+.policy-mian-a li:nth-of-type(8){
+	height: 0.75rem;
+}
+.policy-mian-a li:nth-of-type(7){
+	line-height: 0.5rem;
+}
+.tab-nav-item li .active{
+	background: #FFFFFF;
+	border: solid #233b83 0.01rem;
+	border-bottom: none;
+	color: #666666;
+}
+.policy-mian-b{
+	width: 82%;
+	margin: 0 auto;
+}
+.policy-mian-b li{
+	width: 100%;
+	height: 0.43rem;
+	border-bottom: solid 0.01rem #ebe9e9;
+	line-height: 0.43rem;
+}
+.policy-mian-b li a{
+	display: inline-block;
+}
+.tab-3-title{
+	width: 100%;
+	height: 1rem;
+	background: #FFFFFF;
+	margin-top: 0.1rem;
+	padding-top: 0.1rem;
+	margin-bottom: 0.2rem;
+}
+.tab-3-title p{
+	margin-top: 0.1rem;
+	margin-left: 0.2rem;
+}
+.tab-3-title p:nth-of-type(1){
+	margin-top: 0;
+}
+.qqq{
+	width: 100%;
+}
+.wi{
+	width: 100%;
+	height: 6rem;
+	background: url(../img/qqq.png);
+	background-size: cover;	
+}
